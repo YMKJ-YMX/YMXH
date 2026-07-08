@@ -4,4 +4,4 @@
 捐赠一波吧<BR>
 https://ymkj.bid/pay.php<br>
 <br>
-禁止非法盈利
+禁止非法盈利，本项目完全免费
