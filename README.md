@@ -2,4 +2,6 @@
 云喵星盒，轻量网页工具聚合平台，整合全网实用工具，一站式解决多样使用需求。
 
 捐赠一波吧<BR>
-https://ymkj.bid/pay.php
+https://ymkj.bid/pay.php<br>
+<br>
+禁止非法盈利
